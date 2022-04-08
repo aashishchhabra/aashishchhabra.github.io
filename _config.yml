@@ -23,9 +23,7 @@ title: Aashish Chhabra                          # the main title
 tagline: Technology Enthusiast and Always Eager to Learn   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Aashish Chhabra - Hadoop Administrrator, Devops Engineer, Lead Engineer
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://aashishchhabra.github.io'
@@ -40,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Aashish 
-  email: chhabra.aashish23@gmail.com            # change to your email address
+  email: mail@aashishchhabra.in           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username      # change to your twitter homepage
@@ -72,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:  light # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
