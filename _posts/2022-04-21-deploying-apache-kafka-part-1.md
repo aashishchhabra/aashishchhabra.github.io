@@ -45,7 +45,7 @@ Once you have 4 VM instances deployed either on GCP or platform of your choice, 
    ansible -i hosts kafka -m yum -a "name=java-11-openjdk state=present" -b
    ```
 
-## Downloading and distribute software
+## Download and distribute software package
 Apache Kafka's latest release as well as older releases can be downloaded from the below link:
 [Apache Kafka Downloads](https://kafka.apache.org/downloads)
 
